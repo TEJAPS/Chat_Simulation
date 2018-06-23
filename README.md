@@ -29,7 +29,7 @@ $ composer install
 ### Local Development Server
 
 ```
-php artisan serve
+$ php artisan serve
 ```
 
 ## Configuration
