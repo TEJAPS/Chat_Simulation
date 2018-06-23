@@ -1,8 +1,8 @@
-#Chat Simulation ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+# Chat Simulation ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 This is just for practice please support us.
 
-##Installation
+## Installation
 
 ### Requirements
 * PHP >= 5.6.4
